@@ -4,10 +4,10 @@ host_id,ip_address,mac_address,manufacturer
 3,10.238.97.17,f4d4.88cd.6742,Apple Inc.
 4,10.153.59.5,001a.a0aa.cd75,Dell Inc.        
 5,10.153.59.79,f4d1.08ff.1753,Intel Corporate        
-6,10.153.59.80,f4d4.88cd.6722,Apple Inc.       
-7,10.153.59.81,001a.11a8.70e0,Google Inc.        
-8,10.153.59.82,f4e3.fbad.cf34,Huawei Technologies Co.Ltd        
-9,10.153.59.83,f49f.5472.4739,Samsung Electronics Co.Ltd        
+6,10.153.59.80,f4d4.88cd.6722,Apple, Inc.       
+7,10.153.59.81,001a.11a8.70e0,Google, Inc.        
+8,10.153.59.82,f4e3.fbad.cf34,Huawei Technologies Co.,Ltd        
+9,10.153.59.83,f49f.5472.4739,Samsung Electronics Co.,Ltd        
 10,10.153.59.245,f481.390c.b7e9,Canon Inc.        
-11,10.153.59.246,0001.6434.a0ec,Cisco Systems Inc        
+11,10.153.59.246,0001.6434.a0ec,Cisco Systems, Inc        
 12,10.153.59.247,0000.0878.d81d,Xerox Corporation        

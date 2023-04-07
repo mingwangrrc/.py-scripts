@@ -1,10 +1,10 @@
 import sqlite3
 import pandas as pd
 
-data = pd.read_csv (r'Maple-Ridge.csv')   
+data = pd.read_csv (r'example.csv')   
 df = pd.DataFrame(data)
 
-connection = sqlite3.connect('Maple-Ridge.db')
+connection = sqlite3.connect('location.db')
 
 crs = connection.cursor()
 
